@@ -1,0 +1,148 @@
+.Jason {
+	background:black;
+    margin:50px auto;
+}
+
+.Peterson {
+	color: white;
+	padding: 20px;
+	max-width:500px;
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Oswald', sans-serif;
+}
+
+.Title {
+	color: white;
+	background:black;
+	text-align: center;
+	font-family: 'Shadows Into Light', cursive;
+	margin: auto;
+}
+
+body {
+	background:grey;
+}
+
+img {
+	width:10%;
+	height:10%;
+}
+
+p {
+	text-align: center;
+	font-family: 'Bree Serif', serif;
+	color:white;
+}
+
+
+.Peterson {
+	color: white;
+	padding: 20px;
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Oswald', sans-serif;
+	font-color:orange;
+}
+
+
+
+body {
+	background:grey;
+}
+
+img {
+	width:10%;
+	height:10%;
+}
+
+p {
+	text-align: center;
+	font-family: 'Bree Serif', serif;
+	font-size: 20px;
+}
+
+.EricThompson {
+	background: black;
+    margin:50px auto;
+    font-size: 50px;
+}
+
+.Eric {
+	font-size: 50px;
+}
+@media screen and (min-width:1000px) {
+	body {
+		background: orange;
+	}
+
+
+
+	p {
+		display: flex;
+		flex-direction: row;
+		justify-content: flex-end;
+	}
+	img {
+		display: flex;
+		flex-direction: row;
+		width:10%;
+	    height:10%;
+	}
+	.Jason {
+		display: flex;
+		flex-direction: row;
+		background: blue;
+		border: 20px black solid;
+	}
+	
+	.EricThompson {
+		display: flex;
+		flex-direction: row;
+		background: blue;
+		border: 20px black solid;
+	}
+
+	#Grow1:hover {
+	--webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
+
+	#Grow2:hover {
+	--webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+    }
+
+
+.Row {
+	display: flex;
+	justify-content: flex-end;
+}
+
+
+
+}
+
+
+
+
+
+.Hamburger {
+	max-width:200px;
+	min-width: 20px;
+	background: black;
+	margin-left: 400px;
+}
+.Title {
+	position: fixed;
+	top: 10px;
+	margin: auto;
+	background: blue;
+	display:flex;
+	justify-content: center;
+	}
+
+
+
